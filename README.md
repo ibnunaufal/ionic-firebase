@@ -1,2 +1,4 @@
-# ionic-fcm
-Latihan Ionic FCM
+# Ionic-FCM
+### Latihan Ionic FCM
+
+Latihan bikin FCM pake ionic, semoga bermanfaat
